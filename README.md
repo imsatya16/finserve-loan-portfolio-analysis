@@ -1,4 +1,3 @@
-# finserve-loan-portfolio-analysis
 # 📊 FinServe Loan Portfolio Analysis
 
 ## Overview
