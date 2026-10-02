@@ -172,7 +172,7 @@ The interactive dashboard includes:
 
 Replace the image path below after uploading your dashboard screenshot.
 
-![Dashboard](Dashboard/Dashboard.png)
+![Dashboard](https://github.com/imsatya16/finserve-loan-portfolio-analysis/blob/main/Screenshots/Dashboard.png)
 
 ---
 
